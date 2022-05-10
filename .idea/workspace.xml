@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf397028-e62d-4f97-b669-aef68b00d692" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="27vsPqyu2fjyCDOepvdXFiosJgh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Windows 10/WebstormProjects/hover/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Windows 10\WebstormProjects\hover\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Windows 10\WebstormProjects\hover\img" />
+      <recent name="C:\Users\Windows 10\WebstormProjects\hover\js" />
+      <recent name="C:\Users\Windows 10\WebstormProjects\hover\css" />
+      <recent name="C:\Users\Windows 10\WebstormProjects\hover" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf397028-e62d-4f97-b669-aef68b00d692" name="Changes" comment="" />
+      <created>1650211873008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650211873008</updated>
+      <workItem from="1650211874162" duration="147000" />
+      <workItem from="1650212042528" duration="139000" />
+      <workItem from="1650212197147" duration="1252000" />
+      <workItem from="1650213728826" duration="2887000" />
+      <workItem from="1650217550962" duration="1202000" />
+      <workItem from="1650218902091" duration="112000" />
+      <workItem from="1650297810307" duration="2210000" />
+      <workItem from="1650304303102" duration="1014000" />
+      <workItem from="1650310429699" duration="232000" />
+      <workItem from="1650310711825" duration="138000" />
+      <workItem from="1650311005988" duration="1907000" />
+      <workItem from="1650369937175" duration="3025000" />
+      <workItem from="1650373799739" duration="50000" />
+      <workItem from="1650373862686" duration="2061000" />
+      <workItem from="1650384643989" duration="799000" />
+      <workItem from="1650386639866" duration="136000" />
+      <workItem from="1650542340998" duration="38000" />
+      <workItem from="1650543097944" duration="25000" />
+      <workItem from="1650544057361" duration="241000" />
+      <workItem from="1650560041494" duration="15000" />
+      <workItem from="1650820695752" duration="1818000" />
+      <workItem from="1650989771212" duration="84000" />
+      <workItem from="1651164592535" duration="1610000" />
+      <workItem from="1651166378468" duration="1005000" />
+      <workItem from="1651168122325" duration="182000" />
+      <workItem from="1651173274589" duration="5691000" />
+      <workItem from="1651396013649" duration="458000" />
+      <workItem from="1651421413989" duration="307000" />
+      <workItem from="1651422028313" duration="6622000" />
+      <workItem from="1651435074005" duration="8608000" />
+      <workItem from="1651588764257" duration="1425000" />
+      <workItem from="1651594644448" duration="498000" />
+      <workItem from="1651595205011" duration="50000" />
+      <workItem from="1651595272612" duration="3823000" />
+      <workItem from="1651607621231" duration="2998000" />
+      <workItem from="1651658127147" duration="569000" />
+      <workItem from="1651672794024" duration="666000" />
+      <workItem from="1651673505759" duration="338000" />
+      <workItem from="1651673909035" duration="881000" />
+      <workItem from="1651735847061" duration="617000" />
+      <workItem from="1651736742470" duration="140000" />
+      <workItem from="1651736897870" duration="38000" />
+      <workItem from="1651736950694" duration="38000" />
+      <workItem from="1651737036569" duration="19000" />
+      <workItem from="1651737063967" duration="11000" />
+      <workItem from="1651737100485" duration="403000" />
+      <workItem from="1651737566244" duration="3009000" />
+      <workItem from="1651740626020" duration="53000" />
+      <workItem from="1651740769872" duration="713000" />
+      <workItem from="1651741508497" duration="425000" />
+      <workItem from="1651741971915" duration="32000" />
+      <workItem from="1651742137957" duration="15000" />
+      <workItem from="1651747229386" duration="1699000" />
+      <workItem from="1651761300599" duration="1549000" />
+      <workItem from="1651764011770" duration="106000" />
+      <workItem from="1651767231251" duration="977000" />
+      <workItem from="1651991880852" duration="5000" />
+      <workItem from="1651992277879" duration="601000" />
+      <workItem from="1652027167084" duration="2719000" />
+      <workItem from="1652030101159" duration="23000" />
+      <workItem from="1652030137877" duration="18000" />
+      <workItem from="1652030171540" duration="2307000" />
+      <workItem from="1652092720507" duration="2588000" />
+      <workItem from="1652185535418" duration="4019000" />
+      <workItem from="1652194400445" duration="1887000" />
+      <workItem from="1652198236993" duration="919000" />
+      <workItem from="1652199509591" duration="3889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
